@@ -1,0 +1,133 @@
+
+***MOVIE SEARCH ERROR LOGGED Movie not found!
+
+***MOVIE INFO LOGGED
+<---- Here It Goes ----> 
+> Title: I Love You, Man
+> Year Released: 2009
+> IMDB Rating: 7.0/10
+> Rotten Tomatoes Rating: 83%
+> Countries: USA
+> Available in: English
+> Starring: Paul Rudd, Rashida Jones, Sarah Burns, Greg Levine
+> Here is a gist of it: Friendless Peter Klaven goes on a series of man-dates to find a Best Man for his wedding. But, when his insta-bond with his new B.F.F. puts a strain on his relationship with his fiancée, can the trio learn to live happily ever after?
+
+
+*** SONG INFO LOGGED
+<--------YOUR SONG SEARCH RESULTS-------->
+* Song: I Want It That Way
+* Album: The Hits--Chapter One
+* Artist: Backstreet Boys
+* Preview (CMD+DBLCLICK -->): https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=92d653c5f64a4ee8a2c5091b37ea2a37
+
+
+***SONG SEARCH ERROR LOGGED SONG NOT FOUND
+
+*** SONG INFO LOGGED
+<--------YOUR SONG SEARCH RESULTS-------->
+* Song: Sex on Fire
+* Album: Only By The Night
+* Artist: Kings of Leon
+* Preview (CMD+DBLCLICK -->): https://p.scdn.co/mp3-preview/8cca3506fa42dd9cc51a761386d064b502d1a4c6?cid=92d653c5f64a4ee8a2c5091b37ea2a37
+
+
+***TWEETS LOGGED
+> Tweet #: 1
+> Created at: Fri Dec 29 16:11:11 +0000 2017
+> Barack Tweeted: All across America people chose to get involved, get engaged and stand up. Each of us can make a difference, and al… https://t.co/zxpKVnNeHZ
+,
+> Tweet #: 2
+> Created at: Fri Dec 29 16:10:36 +0000 2017
+> Barack Tweeted: Ten-year-old Jahkil Jackson is on a mission to help homeless people in Chicago. He created kits full of socks, toil… https://t.co/7mNk6dmnyC
+,
+> Tweet #: 3
+> Created at: Fri Dec 29 16:10:04 +0000 2017
+> Barack Tweeted: Chris Long gave his paychecks from the first six games of the NFL season to fund scholarships in Charlottesville, V… https://t.co/KxUk5Wle6h
+,
+> Tweet #: 4
+> Created at: Fri Dec 29 16:09:31 +0000 2017
+> Barack Tweeted: Kat Creech, a wedding planner in Houston, turned a postponed wedding into a volunteer opportunity for Hurricane Har… https://t.co/MCXiSuAVJN
+,
+> Tweet #: 5
+> Created at: Fri Dec 29 16:09:04 +0000 2017
+> Barack Tweeted: As we count down to the new year, we get to reflect and prepare for what’s ahead. For all the bad news that seemed… https://t.co/WaUHkVww2g
+,
+> Tweet #: 6
+> Created at: Wed Dec 27 21:02:52 +0000 2017
+> Barack Tweeted: RT @MBK_Alliance: I am my Brother’s Keeper. 
+Watch our new PSA with @BarackObama, @StephenCurry30 &amp; @chancetherapper, then take action to s…
+,
+> Tweet #: 7
+> Created at: Mon Dec 25 16:05:05 +0000 2017
+> Barack Tweeted: On behalf of the Obama family, Merry Christmas! We wish you joy and peace this holiday season. https://t.co/CNFUZrhrBj
+,
+> Tweet #: 8
+> Created at: Thu Dec 14 22:39:13 +0000 2017
+> Barack Tweeted: There's no better time than the holiday season to reach out and give back to our communities. Great to hear from yo… https://t.co/gp5dCy9oN2
+,
+> Tweet #: 9
+> Created at: Wed Dec 13 00:17:20 +0000 2017
+> Barack Tweeted: Happy Hanukkah, everybody, from the Obama family to yours. Chag Sameach!
+,
+> Tweet #: 10
+> Created at: Mon Dec 11 20:16:29 +0000 2017
+> Barack Tweeted: Just got off a call to thank folks who are working hard to help more Americans across the country sign up for healt… https://t.co/A9QvCySWJ8
+,
+> Tweet #: 11
+> Created at: Mon Dec 04 22:57:47 +0000 2017
+> Barack Tweeted: RT @ObamaFoundation: Watch: We hosted a Town Hall in New Delhi with @BarackObama and young leaders about how to drive change and make an im…
+,
+> Tweet #: 12
+> Created at: Mon Nov 27 21:13:50 +0000 2017
+> Barack Tweeted: Michelle and I are delighted to congratulate Prince Harry and Meghan Markle on their engagement. We wish you a life… https://t.co/KC9nmjZPuX
+,
+> Tweet #: 13
+> Created at: Thu Nov 23 14:44:27 +0000 2017
+> Barack Tweeted: From the Obama family to yours, we wish you a Happy Thanksgiving full of joy and gratitude. https://t.co/xAvSQwjQkz
+,
+> Tweet #: 14
+> Created at: Mon Nov 20 19:02:11 +0000 2017
+> Barack Tweeted: ME:  Joe, about halfway through the speech, I’m gonna wish you a happy birth--
+BIDEN:  IT’S MY BIRTHDAY!
+ME:  Joe.… https://t.co/5qLUsDoaMi
+,
+> Tweet #: 15
+> Created at: Sat Nov 11 15:13:46 +0000 2017
+> Barack Tweeted: RT @ObamaFoundation: Today, we honor those who have honored our country with its highest form of service. https://t.co/IbJNCwIofL https://t…
+,
+> Tweet #: 16
+> Created at: Wed Nov 08 13:25:21 +0000 2017
+> Barack Tweeted: This is what happens when the people vote. Congrats @RalphNortham and @PhilMurphyNJ . And congratulations to all th… https://t.co/ZvUKZIDGAj
+,
+> Tweet #: 17
+> Created at: Tue Nov 07 01:02:17 +0000 2017
+> Barack Tweeted: Every election matters - those who show up determine our future. Go vote tomorrow! https://t.co/j1wh8hLamw
+,
+> Tweet #: 18
+> Created at: Mon Nov 06 00:51:32 +0000 2017
+> Barack Tweeted: May God also grant all of us the wisdom to ask what concrete steps we can take to reduce the violence and weaponry in our midst.
+,
+> Tweet #: 19
+> Created at: Mon Nov 06 00:51:09 +0000 2017
+> Barack Tweeted: We grieve with all the families in Sutherland Springs harmed by this act of hatred, and we’ll stand with the survivors as they recover...
+,
+> Tweet #: 20
+> Created at: Wed Nov 01 13:06:59 +0000 2017
+> Barack Tweeted: Starting today, you can sign up for 2018 health coverage. Head on over to https://t.co/ob1Ynoesod and find a plan t… https://t.co/6eN1Y5TQGV
+
+
+*** SONG INFO LOGGED
+<--------YOUR SONG SEARCH RESULTS-------->
+* Song: Banjaara
+* Album: Banjaara
+* Artist: Gul Hora
+* Preview (CMD+DBLCLICK -->): https://p.scdn.co/mp3-preview/f67658484d0ff5b00193a6f0551e3181b9a500a8?cid=92d653c5f64a4ee8a2c5091b37ea2a37
+
+
+*** SONG INFO LOGGED
+<--------YOUR SONG SEARCH RESULTS-------->
+* Song: Umbrella
+* Album: Good Girl Gone Bad: Reloaded
+* Artist: Rihanna
+* Preview (CMD+DBLCLICK -->): null
+
